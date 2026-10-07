@@ -1,4 +1,4 @@
-# Molly iOS WORK IN PROGRDSS 🚧 
+# Molly iOS WORK IN PROGRESS 🚧 
 
 [![Test](https://github.com/mollyim/mollyim-android/workflows/Test/badge.svg)](https://github.com/mollyim/mollyim-android/actions)
 [![Reproducible build](https://github.com/mollyim/mollyim-android/actions/workflows/reprocheck.yml/badge.svg)](https://github.com/mollyim/mollyim-android/actions/workflows/reprocheck.yml)

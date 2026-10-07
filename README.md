@@ -20,7 +20,7 @@ We update Molly every two weeks to include the latest Signal features and fixes.
 
 You can download the app from GitHub's [Releases](https://github.com/mollyim/mollyim-android/releases/latest) page or install it from the [Molly F-Droid Repo](https://molly.im/fdroid/):
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+[<img src="./appstore.svg"
     alt="Get it on F-Droid"
     height="80">](https://molly.im/fdroid/)
 

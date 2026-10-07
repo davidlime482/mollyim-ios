@@ -40,8 +40,6 @@ Molly has unique features compared to Signal:
 
 Additionally, you will find all the features of Signal, along with some minor tweaks and improvements.
 
-> [!IMPORTANT]
-
 ## Compatibility with Signal
 
 Molly and Signal apps can be installed on the same device. If you need a second number for messaging, you can register Molly with a different number while keeping Signal active. Any phone number capable of receiving SMS or calls can be used during registration.

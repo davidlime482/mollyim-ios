@@ -6,7 +6,7 @@
 [![Financial contributors](https://opencollective.com/mollyim/tiers/badge.svg)](https://opencollective.com/mollyim#category-CONTRIBUTE)
 [![Cloudsmith](https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&style=flat-square)](https://cloudsmith.com)
 
-Molly is a hardened version of [Signal](https://github.com/signalapp/Signal-Android) for Android, the fast simple yet secure messaging app by [Signal Foundation](https://signal.org).
+Molly is a hardened version of [Signal](https://github.com/signalapp/Signal-Android) for iOS, the fast simple yet secure messaging app by [Signal Foundation](https://signal.org).
 
 ## Introduction
 

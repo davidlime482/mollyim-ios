@@ -8,6 +8,8 @@
 
 Molly is a hardened version of [Signal](https://github.com/signalapp/Signal-Android) for iOS, the fast simple yet secure messaging app by [Signal Foundation](https://signal.org).
 
+Also available on [Android](https://github.com/mollyim/mollyim-android). 
+
 ## Introduction
 
 Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of file-based encryption on Android. Molly brings it back again with additional security features.
@@ -34,15 +36,9 @@ Molly has unique features compared to Signal:
 - **Block unknown contacts** - Block messages and calls from unknown senders for security and anti-spam
 - **Custom backup scheduling** - Set daily or weekly interval and the number of backups to retain
 - **SOCKS proxy and Tor support** - Tunnel app network traffic via proxy and Orbot
-- **Debug logs are optional** - Android logging can be disabled
+- **Debug logs are optional** - iOS logging can be disabled
 
 Additionally, you will find all the features of Signal, along with some minor tweaks and improvements.
-
-## Free and Open-Source
-
-Molly is open-source just like Signal. But Signal depends on proprietary Google software for some features.
-
-To support a 100% free and auditable app, Molly comes in two versions: one with proprietary blobs like Signal, and one without. They are called Molly and Molly-FOSS, respectively. You can install the flavor of your choice at any time, and it will replace any previously installed version. The data and settings will be preserved so that you do not have to re-register.
 
 > [!IMPORTANT]
 
